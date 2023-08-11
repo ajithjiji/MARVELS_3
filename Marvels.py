@@ -6,7 +6,7 @@
 #pip install scikit-learn-intelex
 #get_ipython().system('pip install scikit-learn-intelex')
 #from sklearnex import patch_sklearn
-patch_sklearn()
+#patch_sklearn()
 
 
 # In[2]:
